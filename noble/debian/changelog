@@ -1,48 +1,6 @@
-gz-physics9 (9.0.0-5~noble) noble; urgency=medium
-
-  * gz-physics9 9.0.0-5 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 25 Nov 2025 18:22:33 +0100
-
-gz-physics9 (9.0.0-4~noble) noble; urgency=medium
-
-  * gz-physics9 9.0.0-4 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 14 Nov 2025 13:19:41 +0100
-
-gz-physics9 (9.0.0-3~noble) noble; urgency=medium
-
-  * gz-physics9 9.0.0-3 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 14 Nov 2025 12:08:50 +0100
-
-gz-physics9 (9.0.0-2~noble) noble; urgency=medium
-
-  * gz-physics9 9.0.0-2 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 11 Nov 2025 16:56:46 +0100
-
-gz-physics9 (9.0.0-1~noble) noble; urgency=medium
-
-  * gz-physics9 9.0.0-1 release
-
- -- Ian Chen <ichen@openrobotics.org>  Fri, 26 Sep 2025 23:47:15 +0000
-
-gz-physics9 (9.0.0~pre2-1~noble) noble; urgency=medium
-
-  * gz-physics9 9.0.0~pre2-1 release
-
- -- Steve Peters <scpeters@openrobotics.org>  Wed, 10 Sep 2025 20:21:07 +0000
-
-gz-physics9 (9.0.0~pre1-1~noble) noble; urgency=medium
-
-  * gz-physics9 9.0.0~pre1-1 release
-
- -- Steve Peters <scpeters@openrobotics.org>  Tue, 26 Aug 2025 20:58:08 +0000
-
-gz-physics9 (8.999.999-1~noble) noble; urgency=medium
+gz-physics10 (9.999.999-1~noble) noble; urgency=medium
 
   * Stub to be removed after first entry
 
- -- Carlos Aguero <caguero@openrobotics.org>  Tue, 08 Oct 2024 20:56:56 +0200
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Sat, 03 Jan 2026 00:26:41 +0000
 
