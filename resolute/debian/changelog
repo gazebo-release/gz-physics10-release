@@ -1,5 +1,5 @@
-gz-physics10 (9.999.999-1~resolute) resolute; urgency=medium
+gz-physics10 (10.0.0~pre1-1~resolute) resolute; urgency=medium
 
-  * Stub to be removed after first entry
+  * gz-physics10 10.0.0~pre1-1 release
 
- -- Addisu Z. Taddese <addisu@openrobotics.org>  Sat, 03 Jan 2026 00:26:41 +0000
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Thu, 20 Aug 2026 04:14:47 +0000
